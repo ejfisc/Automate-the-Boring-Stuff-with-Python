@@ -1,2 +1,3 @@
-# Automate the Boring Stuff with Python
- This is my "learn python" repository, I will be reading through the book 'Automate the Boring Stuff with Python' and creating a new folder dedicated to each chapter.
+# Automate the Boring Stuff with Python 🐍
+Each chapter folder includes files with notes and projects I built while reading that specific chapter and a summary.txt file that 
+explains what was discussed and what I learned. 
