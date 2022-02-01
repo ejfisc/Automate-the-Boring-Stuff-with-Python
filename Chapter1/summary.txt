@@ -1,0 +1,2 @@
+Chapter 1 went over some very basic python fundamentals, topics I am familiar with 
+but a few rules specific to the Python language. 

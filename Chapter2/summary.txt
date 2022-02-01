@@ -1,0 +1,5 @@
+Chapter 2 went over some more programming basics like True/False and flow control, even included 2
+games which helped me get more acquainted with the syntax of python. These are all topics and ideas
+that I have experience with already, I was able to breeze through this stuff and am picking this up 
+pretty easily, python isn't too difficult to understand. I discovered that python has no ++ increment 
+operator though, which is pretty lame.
