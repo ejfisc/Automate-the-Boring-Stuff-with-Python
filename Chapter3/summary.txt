@@ -1,0 +1,6 @@
+Chapter 3 went over some new keywords, variable scope, the python callstack (works very similar to
+any other callstack) and exception handling. Again, all stuff I'm very familiar with, just exploring
+syntax and semantics of the language. 
+
+I'm really liking python so far actually, it is very easy to understand and work with, 
+and a lot of these rules make sense. They are a bit weird coming from mostly Java, but I like them. 
