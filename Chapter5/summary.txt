@@ -1,0 +1,2 @@
+Chapter 5 went over dictionaries, how they're different from lists, and how they're useful in
+real world applications.
