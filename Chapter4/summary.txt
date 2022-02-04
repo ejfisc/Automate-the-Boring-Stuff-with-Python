@@ -1,0 +1,4 @@
+Chapter 4 went over lists, other sequence data types, and references. I think the stuff about tuples and 
+strings is unique to python, so that was pretty interesting. Lists do have some cool rules and methods. 
+The references stuff made perfect sense. Conway's game of life was pretty interesting to learn about
+and recreate.
