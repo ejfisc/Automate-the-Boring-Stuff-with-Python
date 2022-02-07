@@ -1,0 +1,4 @@
+Chapter 6 went over strings, string manipulation, Python string methods, as well as the 
+3rd party pyperclip module. This was a really cool chapter, I enjoyed working on the projects.
+mclip.py was really cool to build. I like Python a lot actually, I'm surprised I like it as
+much as I do because I'm so used to Java but Python is fun to work with.
