@@ -1,3 +1,7 @@
 Chapter 8 discussed the importance of input validation to prevent bugs in your code from invalid user input. 
 It went over the author's own python module, PyInputPlus, which simplifies the input validation process with
-numerous input functions and options to customize what those functions will and won't allow. 
+numerous input functions and options to customize what those functions will and won't allow. The chapter project
+was used input validation to quiz the user in their multiplication skills, giving them only 8 seconds and 3
+attempts to enter the correct answer
+
+I learned how to use the PyInputPlus module to save time writing input validation code.
