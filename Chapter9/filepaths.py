@@ -45,3 +45,7 @@ os.makedirs('./new directory/new subdirectory')
 # you can call .mkdir() on a path object to create one single directory
 Path('./new directory 2').mkdir()
 
+# the os.path module also has some helpful methods for absolute/relative paths
+print(os.path.abspath('.')) # returns a string of the absolute path of the argument
+print(os.path.isabs('../Chapter6')) # returns true if the argument is an absolute path
+print(os.path.relpath('filepaths.py', 'Documents')) # will return a string of a relative path from the second argument to the first argument
