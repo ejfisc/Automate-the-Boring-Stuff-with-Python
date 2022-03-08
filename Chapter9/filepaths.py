@@ -49,3 +49,24 @@ Path('./new directory 2').mkdir()
 print(os.path.abspath('.')) # returns a string of the absolute path of the argument
 print(os.path.isabs('../Chapter6')) # returns true if the argument is an absolute path
 print(os.path.relpath('filepaths.py', 'Documents')) # will return a string of a relative path from the second argument to the first argument
+# if no second argument is provided, the current working directory is used as the start path
+
+# getting the parts of a file path
+# File paths are comprised of:
+# the anchor, which is the root directory of the filesystem
+# on windows, the drive, is the single letter that denotes the physical hard drive (doesn't include the first backslash)
+# the parent, which is the folder that contains the file
+# the name of the file, which is made up of the stem (base name) and the suffix (extension or file type)
+p = Path('/Users/ethanfischer/Documents/GitHub/Automate-the-Boring-Stuff-with-Python/Chapter9/filepaths.py')
+print(p.anchor)
+print(p.parent) # this is a path object, not a string
+print(p.name)
+print(p.stem)
+print(p.suffix)
+print(p.drive) # returns an empty string on macOS/Linux
+
+# the parents attribute evaluates to a list of the ancestor directories of a path object
+for i in range(0, 6):
+    print(p.parents[i])
+
+
